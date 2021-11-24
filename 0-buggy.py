@@ -1,5 +1,4 @@
-def add_num(num_1, num_2):
-    result = num_1 + num_2
-    return result
-
-print(add_num(2, 3))
+first_num = 2;
+secord_num = 3;
+sum = firstNum + secondNum;
+print(sum);
